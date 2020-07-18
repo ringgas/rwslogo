@@ -1,2 +1,2 @@
 # rwslogo
-FinalProject Barbershop
+FinalProject rwslogo
